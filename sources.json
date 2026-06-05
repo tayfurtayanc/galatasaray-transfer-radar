@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Galatasaray Resmi Site",
+    "url": "https://www.galatasaray.org/rss",
+    "type": "official",
+    "weight": 96,
+    "limit": 25
+  },
+  {
+    "name": "Google News TR - Galatasaray transfer",
+    "url": "https://news.google.com/rss/search?q=Galatasaray+transfer&hl=tr&gl=TR&ceid=TR:tr",
+    "type": "aggregator",
+    "weight": 62,
+    "limit": 40
+  },
+  {
+    "name": "Google News TR - Galatasaray son dakika transfer",
+    "url": "https://news.google.com/rss/search?q=Galatasaray+son+dakika+transfer&hl=tr&gl=TR&ceid=TR:tr",
+    "type": "aggregator",
+    "weight": 60,
+    "limit": 35
+  },
+  {
+    "name": "Google News EN - Galatasaray transfer",
+    "url": "https://news.google.com/rss/search?q=Galatasaray+transfer&hl=en&gl=US&ceid=US:en",
+    "type": "foreign",
+    "weight": 60,
+    "limit": 35
+  },
+  {
+    "name": "Google News IT - Galatasaray mercato",
+    "url": "https://news.google.com/rss/search?q=Galatasaray+mercato&hl=it&gl=IT&ceid=IT:it",
+    "type": "foreign",
+    "weight": 61,
+    "limit": 30
+  },
+  {
+    "name": "Google News ES - Galatasaray fichajes",
+    "url": "https://news.google.com/rss/search?q=Galatasaray+fichajes&hl=es&gl=ES&ceid=ES:es",
+    "type": "foreign",
+    "weight": 58,
+    "limit": 25
+  },
+  {
+    "name": "Google News - KAP Galatasaray",
+    "url": "https://news.google.com/rss/search?q=KAP+Galatasaray+transfer&hl=tr&gl=TR&ceid=TR:tr",
+    "type": "official_check",
+    "weight": 90,
+    "limit": 20
+  },
+  {
+    "name": "Google News - Fabrizio Romano Galatasaray",
+    "url": "https://news.google.com/rss/search?q=Fabrizio+Romano+Galatasaray&hl=en&gl=US&ceid=US:en",
+    "type": "expert",
+    "weight": 78,
+    "limit": 25
+  },
+  {
+    "name": "Google News - Di Marzio Galatasaray",
+    "url": "https://news.google.com/rss/search?q=Di+Marzio+Galatasaray+transfer&hl=it&gl=IT&ceid=IT:it",
+    "type": "expert",
+    "weight": 74,
+    "limit": 25
+  },
+  {
+    "name": "Google News - Matteo Moretto Galatasaray",
+    "url": "https://news.google.com/rss/search?q=Matteo+Moretto+Galatasaray+transfer&hl=en&gl=US&ceid=US:en",
+    "type": "expert",
+    "weight": 73,
+    "limit": 20
+  },
+  {
+    "name": "Google News - Osimhen Galatasaray",
+    "url": "https://news.google.com/rss/search?q=Osimhen+Galatasaray+transfer&hl=en&gl=US&ceid=US:en",
+    "type": "player_watch",
+    "weight": 66,
+    "limit": 25
+  },
+  {
+    "name": "Google News - Hakan Calhanoglu Galatasaray",
+    "url": "https://news.google.com/rss/search?q=Hakan+Calhanoglu+Galatasaray+transfer&hl=tr&gl=TR&ceid=TR:tr",
+    "type": "player_watch",
+    "weight": 64,
+    "limit": 20
+  }
+]
